@@ -22,8 +22,8 @@
   <exec_depend>cob_read_text</exec_depend>
   <!--exec_depend>cob_surface_classification</exec_depend-->
   <exec_depend>cob_texture_classification</exec_depend>
-  <exec_depend>libvlfeat</exec_depend>
-  <exec_depend>libzxing</exec_depend>
+  <!--exec_depend>libvlfeat</exec_depend>
+  <exec_depend>libzxing</exec_depend-->
 
   <export>
     <metapackage />
